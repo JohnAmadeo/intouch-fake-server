@@ -6,7 +6,7 @@
 		"subject": "Arden's 1st Day at School", 
 		"text": "Hi Jerry! How are you doing? Just wanted to let you know that Arden's first day at school went pretty well. I think he was a little bit nervous at first but he was playing with a group of other kids by lunchtime", 
 		"timeSent": "08/12/09",
-        "isDraft": false, 
+        "isDraft": false 
 	},
 	{ 
 		"id": 2, 
@@ -14,7 +14,7 @@
 		"subject": "", 
 		"text": "Hi Jerry! How are you doing? Just wanted to let you know that Arden's first day at school went pretty well. I think he was a little bit nervous at first but he was playing with a group of other kids by lunchtime", 
 		"timeSent": "08/12/09",
-        "isDraft": true, 
+        "isDraft": true 
 	},
 	{ 
 		"id": 3, 
@@ -22,7 +22,7 @@
 		"subject": "Arden's 1st Day at School", 
 		"text": "Hi Jerry! How are you doing? Just wanted to let you know that Arden's first day at school went pretty well. I think he was a little bit nervous at first but he was playing with a group of other kids by lunchtime", 
 		"timeSent": "08/12/09",
-        "isDraft": false, 
+        "isDraft": false 
 	},
 	{ 
 		"id": 4, 
@@ -30,7 +30,7 @@
 		"subject": "", 
 		"text": "Hi Jerry! How are you doing? Just wanted to let you know that Arden's first day at school went pretty well. I think he was a little bit nervous at first but he was playing with a group of other kids by lunchtime", 
 		"timeSent": "08/12/09",
-        "isDraft": true, 
+        "isDraft": true 
 	},
 	{ 
 		"id": 5, 
@@ -38,7 +38,7 @@
 		"subject": "Arden's 1st Day at School", 
 		"text": "Hi Jerry! How are you doing? Just wanted to let you know that Arden's first day at school went pretty well. I think he was a little bit nervous at first but he was playing with a group of other kids by lunchtime", 
 		"timeSent": "08/12/09",
-        "isDraft": false, 
+        "isDraft": false 
 	},
 	{ 
 		"id": 6, 
@@ -46,7 +46,7 @@
 		"subject": "", 
 		"text": "Hi Jerry! How are you doing? Just wanted to let you know that Arden's first day at school went pretty well. I think he was a little bit nervous at first but he was playing with a group of other kids by lunchtime", 
 		"timeSent": "08/12/09",
-        "isDraft": false, 
+        "isDraft": false 
 	},
 	{ 
 		"id": 7, 
@@ -54,7 +54,7 @@
 		"subject": "Arden's 1st Day at School", 
 		"text": "Hi Jerry! How are you doing? Just wanted to let you know that Arden's first day at school went pretty well. I think he was a little bit nervous at first but he was playing with a group of other kids by lunchtime", 
 		"timeSent": "04/03/12",
-        "isDraft": false, 
+        "isDraft": false 
 	},
 	{ 
 		"id": 8, 
@@ -62,7 +62,7 @@
 		"subject": "", 
 		"text": "Hi Paul! How are you doing? Just wanted to let you know that Arden's first day at school went pretty well. I think he was a little bit nervous at first but he was playing with a group of other kids by lunchtime", 
 		"timeSent": "05/12/10",
-        "isDraft": true,
+        "isDraft": true
 	},
 	{ 
 		"id": 9, 
@@ -70,7 +70,7 @@
 		"subject": "Arden's 1st Day at School", 
 		"text": "Hi Jerry! How are you doing? Just wanted to let you know that Arden's first day at school went pretty well. I think he was a little bit nervous at first but he was playing with a group of other kids by lunchtime", 
 		"timeSent": "05/12/10",
-        "isDraft": false, 
+        "isDraft": false 
 	},
 	{ 
 		"id": 10, 
@@ -78,7 +78,7 @@
 		"subject": "", 
 		"text": "Hi Jerry! How are you doing? Just wanted to let you know that Arden's first day at school went pretty well. I think he was a little bit nervous at first but he was playing with a group of other kids by lunchtime", 
 		"timeSent": "05/12/10",
-        "isDraft": false, 
+        "isDraft": false 
 	}
   ]
 }

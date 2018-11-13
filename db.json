@@ -1,78 +1,95 @@
 {
 	"letters": [{
 			"id": 1,
+			"author": "jadk157",
 			"recipient": "Alex Grant",
-			"recipientId": 1 ,
+			"recipientId": 1,
 			"subject": "Arden's 1st Day at School",
 			"text": "Hi Jerry! How are you doing? Just wanted to let you know that Arden's first day at school went pretty well. I think he was a little bit nervous at first but he was playing with a group of other kids by lunchtime",
-			"timeSent": "08/10/09",
+			"timeSent": "08/10/09 10:45:23",
+			"timeLastEdited": "08/10/09 10:45:23",
 			"isDraft": false
 		},
 		{
 			"id": 3,
+			"author": "jadk157",
 			"recipient": "John Grant",
 			"recipientId": 2,
 			"subject": "Arden's 1st Day at School",
 			"text": "Hi Jerry! How are you doing? Just wanted to let you know that Arden's first day at school went pretty well. I think he was a little bit nervous at first but he was playing with a group of other kids by lunchtime",
-			"timeSent": "09/12/09",
+			"timeSent": "09/12/09 10:45:23",
+			"timeLastEdited": "09/12/09 10:45:23",
 			"isDraft": false
 		},
 		{
 			"id": 5,
+			"author": "jadk157",
 			"recipient": "Alex Hernandez",
 			"recipientId": 3 ,
 			"subject": "Arden's 1st Day at School",
 			"text": "Hi Jerry! How are you doing? Just wanted to let you know that Arden's first day at school went pretty well. I think he was a little bit nervous at first but he was playing with a group of other kids by lunchtime",
-			"timeSent": "08/08/08",
+			"timeSent": "08/08/08 10:45:23",
+			"timeLastEdited": "08/08/08 10:45:23",
 			"isDraft": false
 		},
 		{
 			"id": 6,
+			"author": "jadk157",
 			"recipient": "Alex Yu",
 			"recipientId": 5,
 			"subject": "",
 			"text": "Hi Jerry! How are you doing? Just wanted to let you know that Arden's first day at school went pretty well. I think he was a little bit nervous at first but he was playing with a group of other kids by lunchtime",
-			"timeSent": "08/12/09",
+			"timeSent": "08/12/09 10:45:23",
+			"timeLastEdited": "08/12/09 10:45:23",
 			"isDraft": false
 		},
 		{
 			"id": 7,
+			"author": "jadk157",
 			"recipient": "Paul Yu",
 			"recipientId": 6,
 			"subject": "Arden's 1st Day at School",
 			"text": "Hi Jerry! How are you doing? Just wanted to let you know that Arden's first day at school went pretty well. I think he was a little bit nervous at first but he was playing with a group of other kids by lunchtime",
-			"timeSent": "04/03/12",
+			"timeSent": "04/03/12 10:45:23",
+			"timeLastEdited": "04/03/12 10:45:23",
 			"isDraft": false
 		},
 		{
 			"id": 9,
+			"author": "jadk157",
 			"recipient": "Alex Grant",
 			"recipientId": 1 ,
 			"subject": "Arden's 1st Day at School",
 			"text": "Hi Jerry! How are you doing? Just wanted to let you know that Arden's first day at school went pretty well. I think he was a little bit nervous at first but he was playing with a group of other kids by lunchtime",
-			"timeSent": "05/12/10",
+			"timeSent": "05/12/10 10:45:23",
+			"timeLastEdited": "05/12/10 10:45:23",
 			"isDraft": false
 		},
 		{
 			"id": 10,
+			"author": "jadk157",
 			"recipient": "Alex Grant",
 			"recipientId": 1 ,
 			"subject": "",
 			"text": "Hi Jerry! How are you doing? Just wanted to let you know that Arden's first day at school went pretty well. I think he was a little bit nervous at first but he was playing with a group of other kids by lunchtime",
-			"timeSent": "05/12/10",
+			"timeSent": "05/12/10 10:45:23",
+			"timeLastEdited": "05/12/10 10:45:23",
 			"isDraft": false
 		},
 		{
 			"id": 11,
+			"author": "jadk157",
 			"recipient": "Angel Darvish",
 			"recipientId": 7 ,
 			"subject": "Just checking up",
 			"text": "Hi Angel! Hope you're doing well!",
-			"timeSent": "01/12/14",
+			"timeSent": "01/12/14 10:45:23",
+			"timeLastEdited": "01/12/14 10:45:23",
 			"isDraft": false
 		}
 	],
-	"inmates": [{
+	"inmates": [
+		{
 			"id": 1,
 			"firstName": "Alex",
 			"lastName": "Grant",

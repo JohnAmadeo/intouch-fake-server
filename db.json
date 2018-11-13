@@ -51,22 +51,6 @@
 			"inmateNumber": "5",
 			"dateOfBirth": "03/10/81",
 			"facility": "CT Prison"
-		},
-		{
-			"id": 6,
-			"firstName": "Paul",
-			"lastName": "Yu",
-			"inmateNumber": "6",
-			"dateOfBirth": "03/08/91",
-			"facility": "CT Prison"
-		},
-		{
-			"id": 7,
-			"firstName": "Angel",
-			"lastName": "Darvish",
-			"inmateNumber": "7",
-			"dateOfBirth": "04/10/91",
-			"facility": "CT Prison"
 		}
 	]
 }
